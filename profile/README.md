@@ -8,7 +8,7 @@ The purpose of this project is to find an effective combination of hardware and 
 
 ### Devices
 
-[#SamKnows Whitebox](https://samknows.one/hc/en-gb/articles/360000451757-What-is-the-Whitebox-)
+#[SamKnows Whitebox](https://samknows.one/hc/en-gb/articles/360000451757-What-is-the-Whitebox-)
 
 'https://samknows.one/hc/en-gb/articles/360000451757-What-is-the-Whitebox-'
 
