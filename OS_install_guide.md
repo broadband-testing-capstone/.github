@@ -23,3 +23,5 @@ Precondition: Device is turned off and connected via the management port to a ma
 7. Install the minimified version of the OS -- this will save space
 8. When prompted about disk setup, deselect the option to use LVM
 9. Use username `TODO` and password `TODO`
+10. Use `scp` on Linux or `pscp` on Windows to transfer files from local computer to device or otherwise download
+11. Shutdown device and disconnect
