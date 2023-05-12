@@ -8,24 +8,16 @@ The purpose of this project is to find an effective combination of hardware and 
 
 The following devices are used in this project.
 
-[SamKnows Whitebox](https://samknows.one/hc/en-gb/articles/360000451757-What-is-the-Whitebox-)
-
-The WhiteBox is a proprietery solution with its own internet speed tests.
+[SamKnows Whitebox](https://samknows.one/hc/en-gb/articles/360000451757-What-is-the-Whitebox-) - The WhiteBox is a proprietery solution with its own internet speed tests.
 
 
-[Dell EMC VEP1425](https://www.delltechnologies.com/asset/en-my/products/networking/technical-support/dell_emc_networking_specsheet_vep1405.pdf)
-
-The VEP1425 is a part of a series of network infrastructure devices. 
+[Dell EMC VEP1425](https://www.delltechnologies.com/asset/en-my/products/networking/technical-support/dell_emc_networking_specsheet_vep1405.pdf) - The VEP1425 is a part of a series of network infrastructure devices. 
 
 
-[Lanner NCA-1513](https://www.lannerinc.com/products/telecom-datacenter-appliances/vcpe-ucpe-platforms/nca-1513)
-
-Like the VEP1425, this product is also designed as a network infrastructure device.
+[Lanner NCA-1513](https://www.lannerinc.com/products/telecom-datacenter-appliances/vcpe-ucpe-platforms/nca-1513) - Like the VEP1425, this product is also designed as a network infrastructure device.
 
 
-[Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
-
-The cheapest solution and common for internet speed testing. 
+[Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - The cheapest solution and common for internet speed testing solutions. 
 
 
 ### Software
