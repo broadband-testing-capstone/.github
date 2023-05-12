@@ -32,7 +32,7 @@ Designed to run on a variety of hardware and test at random times throughout the
 
 Runs the NDT-5, NDT-7 and Ookla speedtests.
 
-We Murakami for random tests in a 24 hour period. 
+We used Murakami for random tests in a 24 hour period. See [here](https://github.com/broadband-testing-capstone/murakami-config) for setup.
 
 
 
