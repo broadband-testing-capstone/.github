@@ -52,3 +52,7 @@ We use Netrics to run tests daily during set hours. See [here](https://github.co
 TBA.
 
 
+#### Future Work
+
+Expanding number of devices. Making Netrics deployable to the field. Upgrading Netrics-GCP-Support to Netrics V2. 
+
