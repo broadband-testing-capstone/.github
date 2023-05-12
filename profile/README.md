@@ -54,5 +54,5 @@ TBA.
 
 #### Future Work
 
-Expanding number of devices. Making Netrics deployable to the field. Upgrading Netrics-GCP-Support to Netrics V2. 
+Expanding number of devices. Making Netrics deployable with Docker. Upgrading Netrics-GCP-Support to Netrics V2. 
 
