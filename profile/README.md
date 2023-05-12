@@ -2,7 +2,7 @@
 This project is in collaboration with the [Precision Ag Connectivity & Accuracy Stakeholder Alliance](https://www.pagcasa.org/pagcasa) (PAgCASA).
 
 
-The purpose of this project is to find an effective combination of hardware and software solutions to accurately construct a broadband map. This project uses a multitude of devices at various price points as well as different internet speed tests to create a dataset. These devices are meant to be deployed in people's residences to collect data.
+The purpose of this project is to find an effective combination of hardware and software solutions to accurately construct a broadband map. This project uses multiple devices at various price points as well as different internet speed tests to create a dataset. These devices are meant to be deployed in people's residences to collect data.
 
 
 #### Hardware
