@@ -1,5 +1,5 @@
 ## Broadband Testing Hardware Research
-## Oregon State University Capstone Project
+### Oregon State University Capstone Project
 
 #### About
 This project is a collaboration with the [Precision Ag Connectivity & Accuracy Stakeholder Alliance](https://www.pagcasa.org/pagcasa) (PAgCASA).
