@@ -1,15 +1,19 @@
+## Broadband Testing Hardware Research
+## Oregon State University Capstone Project
+
 #### About
-This project is in collaboration with the [Precision Ag Connectivity & Accuracy Stakeholder Alliance](https://www.pagcasa.org/pagcasa) (PAgCASA).
+This project is a collaboration with the [Precision Ag Connectivity & Accuracy Stakeholder Alliance](https://www.pagcasa.org/pagcasa) (PAgCASA).
 
+PAgCASA is a non-profit organization focused on mapping America's broadband infrastructure for the purposes of helping communities secure access to federal funding for broadband improvements. This is achieved through on-site internet speed testing to prove that customers are receiving service below both the federal requirements and what their internet service provider claims they're serving to that location. PAgCASA and other organizations like them need to purchase and deploy large fleets of testing devices across the country to capture this data.
 
-The purpose of this project is to find an effective combination of hardware and software solutions to accurately construct a broadband map. This project uses multiple devices at various price points as well as different internet speed tests to create a dataset. These devices are meant to be deployed in people's residences to collect data.
+The goal of this project is to investigate the wide variety of the available testing devices on the market and determine the most effective combinations of hardware and software solutions that can be used to accurately construct a broadband map. By testing multiple devices of various price points along with different testing software, this project aims to find reliable and cost-effective options available to help groups like PAgCASA make informed choices about their options for broadband testing.
 
 
 #### Hardware
 
 The following devices are used in this project.
 
-[SamKnows Whitebox](https://samknows.one/hc/en-gb/articles/360000451757-What-is-the-Whitebox-) - The WhiteBox is a proprietery solution with its own internet speed tests.
+[SamKnows Whitebox 7](https://samknows.one/hc/en-gb/articles/360000451757-What-is-the-Whitebox-) - The WhiteBox is a proprietary solution with its own internet speed tests and online data visualization.
 
 
 [Dell EMC VEP1425](https://www.delltechnologies.com/asset/en-my/products/networking/technical-support/dell_emc_networking_specsheet_vep1405.pdf) - The VEP1425 is a part of a series of network infrastructure devices. 
