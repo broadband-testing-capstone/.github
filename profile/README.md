@@ -1,6 +1,7 @@
 #### Oregon State University Capstone Project
 ## Broadband Testing Hardware Research
 
+
 #### About
 This project is a collaboration with the [Precision Ag Connectivity & Accuracy Stakeholder Alliance](https://www.pagcasa.org/pagcasa) (PAgCASA).
 
@@ -11,7 +12,7 @@ The goal of this project is to investigate the wide variety of the available tes
 
 #### Hardware
 
-The following devices are used in this project.
+The following devices have been used in this project:
 
 [SamKnows Whitebox 8](https://samknows.one/hc/en-gb/articles/360000451757-What-is-the-Whitebox-) - The WhiteBox is a proprietary solution with its own internet speed tests and online data visualization.
 
@@ -27,6 +28,7 @@ The following devices are used in this project.
 
 #### Software
 
+The following software has been used in this project:
 
 [Murakami](https://github.com/m-lab/murakami)
 
@@ -49,6 +51,17 @@ Designed to run on single board computers like the Raspberry Pi and highly confi
 Runs the NDT-7 and Ookla speedtests, but can be extended to run a variety of extra tests.
 
 We use Netrics to run tests daily during set hours. See [here](https://github.com/broadband-testing-capstone/Netrics-GCP-support) for our respository that adds Google Cloud Platform support. 
+
+
+#### Additional Tools
+
+This repository contains the various scripts we've produced for our research process.
+
+[murakami-config](https://github.com/broadband-testing-capstone/murakami-config) - Scripts for extending Murakami to run scheduled tests.
+
+[Netrics-GCP-support](https://github.com/broadband-testing-capstone/Netrics-GCP-support) - Scripts to facilitate uploading of Netrics data to Google Cloud Platform.
+
+[gcp_download](https://github.com/broadband-testing-capstone/gcp_download) - Scripts used to convert speedtest data stored on Google Cloud Platform into .CSV files.
 
 
 #### Data Availability
