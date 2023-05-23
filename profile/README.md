@@ -74,7 +74,7 @@ Our basic device testing process involves running speedtests from a variety of d
 
 TBA.
 
-
+&nbsp;
 #### Future Work
 
 Expanding number of devices. Making Netrics deployable with Docker. Upgrading Netrics-GCP-Support to Netrics V2. 
