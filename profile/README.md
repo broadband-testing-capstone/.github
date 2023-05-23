@@ -5,11 +5,11 @@
 #### About
 This project is a collaboration with the [Precision Ag Connectivity & Accuracy Stakeholder Alliance](https://www.pagcasa.org/pagcasa) (PAgCASA).
 
-PAgCASA is a non-profit organization focused on mapping America's broadband infrastructure for the purposes of helping communities secure access to federal funding for broadband improvements. This is achieved through on-site internet speed testing to prove that customers are receiving service below both the federal requirements and what their internet service provider claims they're serving to that location. PAgCASA and other organizations like them need to purchase and deploy large fleets of testing devices across the country to capture this data.
+PAgCASA is a non-profit organization focused on mapping America's broadband infrastructure for the purpose of helping communities secure access to federal funding for broadband improvements. This is achieved through on-site internet speed testing to prove that customers are receiving service below both the federal requirements and what their internet service provider claims they're serving to that location. PAgCASA and other organizations like them need to purchase and deploy large fleets of testing devices across the country to capture this data.
 
 The goal of this project is to investigate the wide variety of the available testing devices on the market and determine the most effective combinations of hardware and software solutions that can be used to accurately construct a broadband map. By testing multiple devices of various price points along with different testing software, this project aims to find reliable and cost-effective options available to help groups like PAgCASA make informed choices about their options for broadband testing.
 
-
+&nbsp;
 #### Hardware
 
 The following devices have been used in this project:
@@ -25,7 +25,7 @@ The following devices have been used in this project:
 
 [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) - The cheapest solution and common for internet speed testing solutions. 
 
-
+&nbsp;
 #### Software
 
 The following software has been used in this project:
@@ -41,7 +41,6 @@ Runs the NDT-5, NDT-7 and Ookla speedtests.
 We used Murakami for random tests in a 24 hour period. See [here](https://github.com/broadband-testing-capstone/murakami-config) for setup.
 
 
-
 [Netrics](https://github.com/internet-equity/nm-exp-active-netrics)
 
 Developed by The University of Chicago Data Science Institute's Internet Equity Initiative.
@@ -52,7 +51,7 @@ Runs the NDT-7 and Ookla speedtests, but can be extended to run a variety of ext
 
 We use Netrics to run tests daily during set hours. See [here](https://github.com/broadband-testing-capstone/Netrics-GCP-support) for our respository that adds Google Cloud Platform support. 
 
-
+&nbsp;
 #### Additional Tools
 
 This repository contains the various scripts we've produced for our research process.
@@ -63,7 +62,14 @@ This repository contains the various scripts we've produced for our research pro
 
 [gcp_download](https://github.com/broadband-testing-capstone/gcp_download) - Scripts used to convert speedtest data stored on Google Cloud Platform into .CSV files.
 
+&nbsp;
+#### Process
 
+Our basic device testing process involves running speedtests from a variety of devices in consistent locations to generate a collection of data that can be used to provide insight into the points where their functionality overlaps and differs. This data set, along with real world experience in the process of setting up and handling them allows us to better understand their limitations and offer recommendations about their use at scale.
+
+![Testing Process Diagram](https://raw.githubusercontent.com/broadband-testing-capstone/.github/main/arch_diagram_capstone.png)
+
+&nbsp;
 #### Data Availability
 
 TBA.
