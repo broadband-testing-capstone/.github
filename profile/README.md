@@ -13,7 +13,7 @@ The goal of this project is to investigate the wide variety of the available tes
 
 The following devices are used in this project.
 
-[SamKnows Whitebox 7](https://samknows.one/hc/en-gb/articles/360000451757-What-is-the-Whitebox-) - The WhiteBox is a proprietary solution with its own internet speed tests and online data visualization.
+[SamKnows Whitebox 8](https://samknows.one/hc/en-gb/articles/360000451757-What-is-the-Whitebox-) - The WhiteBox is a proprietary solution with its own internet speed tests and online data visualization.
 
 
 [Dell EMC VEP1425](https://www.delltechnologies.com/asset/en-my/products/networking/technical-support/dell_emc_networking_specsheet_vep1405.pdf) - The VEP1425 is a part of a series of network infrastructure devices. 
